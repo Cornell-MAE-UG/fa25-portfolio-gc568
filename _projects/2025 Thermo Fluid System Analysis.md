@@ -1,11 +1,10 @@
 ---
 layout: project
-title: Thermo Heat Exchanger
+title: Thermo Fluid System Analysis
 description: Analysis of Thermodynamic systems
 technologies: [Lab experience, Hand Calcuations]
-image1: /assets/images/ThermoHeatExchanger1.jpg
-image 2: /assets/images/ThermoHeatExchanger2.jpg
-image 3: /assets/images/ThermoHeatExchanger3.jpg
+image: /assets/images/ThermoHeatExchanger1.jpg
+
 ---
 
 For this class, we were asked to investigate the performance of a small liquid–liquid heat exchanger and analyze how its behavior changed under different operating conditions. The setup consisted of a stainless-steel heat exchanger block connected to two water circuits, each driven by a small pump. One loop was heated using an immersion heater to create a controlled “hot reservoir,” while the other loop was cooled with ice water to form the “cold reservoir.” Our goal was to compare how the device performed in parallel flow, counterflow, and counterflow with reduced flow rate, and then explain the observed results using the thermodynamic concepts we learned in the course.
