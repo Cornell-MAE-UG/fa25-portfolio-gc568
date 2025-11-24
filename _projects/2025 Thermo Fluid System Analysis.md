@@ -4,6 +4,8 @@ title: Thermo Fluid System Analysis
 description: Analysis of Thermodynamic systems
 technologies: [Lab experience, Hand Calcuations]
 image: /assets/images/ThermoHeatExchanger1.jpg
+image: /assets/images/ThermoHeatExchanger2.jpg
+image: /assets/images/ThermoHeatExchanger3.jpg
 
 ---
 
