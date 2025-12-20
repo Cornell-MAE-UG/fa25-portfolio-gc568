@@ -3,10 +3,18 @@ layout: project
 title: Thermo Fluid System Analysis
 description: Analysis of Thermodynamic systems
 technologies: [Lab experience, Hand Calcuations]
+image: /assets/images/Flowpicturethermo.jpg
 ---
+![Heat Exchanger 1]({{ "/assets/images/Parallel.jpg" | relative_url }})
+![Heat Exchanger 1]({{ "/assets/images/Counter.jpg" | relative_url }})
+![Heat Exchanger 1]({{ "/assets/images/Counterpinch.jpg" | relative_url }})
 ![Heat Exchanger 1]({{ "/assets/images/ThermoHeatExchanger1.jpg" | relative_url }})
 ![Heat Exchanger 2]({{ "/assets/images/ThermoHeatExchanger2.jpg" | relative_url }})
 ![Heat Exchanger 3]({{ "/assets/images/ThermoHeatExchanger3.jpg" | relative_url }})
+
+Summary and Conclusions:
+
+Heat Exchanger pictures: 1st is parallel flow, 2nd is counter flow, and 3rd if counter pinch flow 
 
 For this class, we were asked to investigate the performance of a small liquid–liquid heat exchanger and analyze how its behavior changed under different operating conditions. The setup consisted of a stainless-steel heat exchanger block connected to two water circuits, each driven by a small pump. One loop was heated using an immersion heater to create a controlled “hot reservoir,” while the other loop was cooled with ice water to form the “cold reservoir.” Our goal was to compare how the device performed in parallel flow, counterflow, and counterflow with reduced flow rate, and then explain the observed results using the thermodynamic concepts we learned in the course.
 
