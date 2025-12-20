@@ -5,9 +5,9 @@ description: Analysis of Thermodynamic systems
 technologies: [Lab experience, Hand Calcuations]
 image: /assets/images/Flowpicturethermo.jpg
 ---
-![Heat Exchanger 1]({{ "/assets/images/Parallel.jpg" | relative_url }})
-![Heat Exchanger 1]({{ "/assets/images/Counter.jpg" | relative_url }})
-![Heat Exchanger 1]({{ "/assets/images/Counterpinch.jpg" | relative_url }})
+![Heat Exchanger 1]({{ "/assets/images/Parallel.jpeg" | relative_url }})
+![Heat Exchanger 1]({{ "/assets/images/Counter.jpeg" | relative_url }})
+![Heat Exchanger 1]({{ "/assets/images/Counterpinch.jpeg" | relative_url }})
 ![Heat Exchanger 1]({{ "/assets/images/ThermoHeatExchanger1.jpg" | relative_url }})
 ![Heat Exchanger 2]({{ "/assets/images/ThermoHeatExchanger2.jpg" | relative_url }})
 ![Heat Exchanger 3]({{ "/assets/images/ThermoHeatExchanger3.jpg" | relative_url }})
