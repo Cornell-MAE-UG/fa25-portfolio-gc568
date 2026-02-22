@@ -4,6 +4,12 @@ Compile to PDF (example):
 -->
 
 ---
+layout: project
+title: Thermo Fluid System Analysis
+description: Analysis of Thermodynamic systems
+technologies: [Lab experience, Hand Calcuations]
+image: /assets/images/Flowpicturethermo.jpg
+
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
