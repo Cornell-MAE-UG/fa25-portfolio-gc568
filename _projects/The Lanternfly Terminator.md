@@ -5,12 +5,14 @@ description: Analysis of Thermodynamic systems
 technologies: [Lab experience, Hand Calcuations]
 image: /assets/images/Flowpicturethermo.jpg
 
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes:
-  - \pagenumbering{gobble}
+
+#fontsize: 11pt
+#geometry: margin=1in
+#papersize: letter
+#pagestyle: empty
+#header-includes:
+ # - \pagenumbering{gobble}
+
 ---
 
 # The Lanternfly Terminator
