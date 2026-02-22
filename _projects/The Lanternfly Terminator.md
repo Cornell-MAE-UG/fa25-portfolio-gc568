@@ -1,17 +1,17 @@
 ---
 layout: project
-title: Thermo Fluid System Analysis
-description: Analysis of Thermodynamic systems
-technologies: [Lab experience, Hand Calcuations]
+title: The Lanternfly Terminator
+description: A Laternfly attraction and elimination method to prevent them from grape harvest 
+technologies: [Fusion360]
 image: /assets/images/Flowpicturethermo.jpg
 
 
-#fontsize: 11pt
-#geometry: margin=1in
-#papersize: letter
-#pagestyle: empty
-#header-includes:
- # - \pagenumbering{gobble}
+fontsize: 11pt
+geometry: margin=1in
+papersize: letter
+pagestyle: empty
+header-includes:
+  - \pagenumbering{gobble}
 
 ---
 
@@ -59,8 +59,7 @@ By the semester’s end, we aim to validate the functionality of our auto scent 
 
 ## References
 
-- <Source 1 (URL or citation)>
-- <Source 2 (URL or citation)>
+- Inspiration for scented SLF trap <https://www.walmart.com/ip/Dynatrap-1-Acre-Outdoor-Insect-Trap/15703653119?wmlspartner=wlpa&selectedSellerId=101525662&adid=2222222222715703653119_101525662_14069003552_202077872&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-2449037643288&wl5=9004340&wl6=&wl7=&wl8=&wl9=pla&wl10=5504475159&wl11=online&wl12=15703653119_101525662&veh=sem&gad_source=1&gad_campaignid=202077872&gbraid=0AAAAADmfBIpshjwqZkYJ711jhtwbtV8Nh&gclid=CjwKCAiAzOXMBhASEiwAe14SaYPcoyW_-2TloQgX971zEbpw3DdYr6i0aki_HEW3GmuwFhSNWkwSQBoC8zYQAvD_BwE>
 
 ## Figure
 
