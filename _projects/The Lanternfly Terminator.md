@@ -132,10 +132,11 @@ The system operates by combining an expandable structure with a protective mesh 
 ## Figures
 
 ### CAD
-![CAD Prototype Render]({{ site.baseurl }}/assets/images/cad-prototype.jpg)
+<img src="{{ site.baseurl }}/assets/images/cad-prototype.jpg" alt="CAD Prototype Render" width="500">
 
 ### Sketch
-![Functional Prototype Sketch]({{ site.baseurl }}/assets/images/prototype-sketch.jpg)
+<img src="{{ site.baseurl }}/assets/images/prototype-sketch.jpg" alt="Functional Prototype Sketch" width="500">
+
 
 ## 1.3 Assembly Instructions
 
