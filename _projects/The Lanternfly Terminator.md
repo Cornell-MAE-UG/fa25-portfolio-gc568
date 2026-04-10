@@ -15,8 +15,6 @@ header-includes:
 
 ---
 
-# The Lanternfly Terminator
-
 **Team:** Bug-anators
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
