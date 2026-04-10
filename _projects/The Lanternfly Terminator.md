@@ -70,28 +70,48 @@ Focus on questions they can answer from lived experience.
 
 ## 1.1 Parts List Purchased
 
-| Part Name | Description | Material | Source (McMaster Code or Amazon link) | Fabrication Method |
-|---|---|---|---|---|
-| T-Slotted Framing Rail | Single four-slot rail, 1" × 1", length = 6 ft | Aluminum | McMaster 47065T101 | Purchased & used |
-| Aluminum U-Channel | 6063 aluminum, 1/16" wall, 3/8" × 5/8", length = 4 ft | Aluminum | McMaster 9001K787 | Purchased & used |
-| Garden Mesh Netting | 4' × 10' fine bug netting for pest protection | Polymer mesh | mesh | Purchased but not used cause didn’t arrive on time |
-| Expandable Coat Rack (Wall Hanger) | Wooden expandable peg rack, 14 hooks | Wood | l brackets | Purchased but not used cause didn’t arrive on time |
-| Drive Wheels | 64 mm metal drive wheels, 6 mm inner diameter | Metal + rubber | wheel | Purchased but not used cause didn’t arrive on time |
-| DC Gear Motor | 12V, 10 RPM high torque geared motor, 37 mm shaft | Metal/plastic | motor | Purchased but not used cause didn’t arrive on time |
-| Corner Brackets (Set) | 2020 aluminum extrusion L-brackets with M5 bolts/nuts | Aluminum | corner brackets | Purchased but not used cause didn’t arrive on time |
+<table>
+  <thead>
+    <tr>
+      <th>Part Name</th>
+      <th>Description</th>
+      <th>Material</th>
+      <th>Source</th>
+      <th>Fabrication Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Garden Mesh Netting</td><td>4' × 10' fine bug netting</td><td>Polymer mesh</td><td>McMaster</td><td>Purchased but not used — didn't arrive on time</td></tr>
+    <tr><td>Expandable Coat Rack</td><td>Wooden expandable peg rack, 14 hooks</td><td>Wood</td><td>Amazon</td><td>Purchased but not used — didn't arrive on time</td></tr>
+    <tr><td>Drive Wheels</td><td>64mm metal drive wheels, 6mm inner diameter</td><td>Metal + rubber</td><td>Amazon</td><td>Purchased but not used — didn't arrive on time</td></tr>
+    <tr><td>DC Gear Motor</td><td>12V, 10 RPM high torque geared motor, 37mm shaft</td><td>Metal/plastic</td><td>McMaster</td><td>Purchased but not used — didn't arrive on time</td></tr>
+    <tr><td>Corner Brackets (Set)</td><td>2020 aluminum extrusion L-brackets with M5 bolts/nuts</td><td>Aluminum</td><td>Amazon</td><td>Purchased but not used — didn't arrive on time</td></tr>
+  </tbody>
+</table>
 
 ## 1.2 Parts List That We Actually Used
 
-| Part Name | Description | Material | Source (McMaster Code or Amazon link) | Fabrication Method |
-|---|---|---|---|---|
-| T-Slotted Framing Rail | Single four-slot rail, 1" × 1", length = 6 ft | Aluminum | McMaster 47065T101 | Purchased |
-| Aluminum U-Channel | 6063 aluminum, 1/16" wall, 3/8" × 5/8", length = 4 ft | Aluminum | McMaster 9001K787 | Purchased |
-| Scissor Linkage System | 8 sets of 2 × 12 planks created in a criss-cross manner with 3 pivot screws to contract and extend | Faux (Soft) Wood | TDS | Band saw, Drill press (fabricated) |
-| L-brackets | ~1” × 1” L brackets | Aluminum | N/A | Spare part |
-| Fasteners | 10-24 screws and nuts | Steel | N/A | Spare part |
-| Driveshaft | ¼” cylindrical axle | Steel | N/A | Spare part |
-| Wheel | ~2 inch diameter wheel | PLA | Filament N/A | 3D printed through the RPL |
-| Wheel mount | Mounting structure to attach to framing rail | PLA | Filament N/A | 3D printed through the RPL |
+<table>
+  <thead>
+    <tr>
+      <th>Part Name</th>
+      <th>Description</th>
+      <th>Material</th>
+      <th>Source</th>
+      <th>Fabrication Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>T-Slotted Framing Rail</td><td>Single four-slot rail, 1" × 1", 6ft</td><td>Aluminum</td><td>McMaster 47065T101</td><td>Purchased</td></tr>
+    <tr><td>Aluminum U-Channel</td><td>6063 aluminum, 1/16" wall, 3/8" × 5/8", 4ft</td><td>Aluminum</td><td>McMaster 9001K787</td><td>Purchased</td></tr>
+    <tr><td>Scissor Linkage System</td><td>8 sets of 2×12 planks in criss-cross with 3 pivot screws</td><td>Faux Wood</td><td>TDS</td><td>Band saw, Drill press</td></tr>
+    <tr><td>L-brackets</td><td>~1" × 1" L brackets</td><td>Aluminum</td><td>N/A</td><td>Spare part</td></tr>
+    <tr><td>Fasteners</td><td>10-24 screws and nuts</td><td>Steel</td><td>N/A</td><td>Spare part</td></tr>
+    <tr><td>Driveshaft</td><td>¼" cylindrical axle</td><td>Steel</td><td>N/A</td><td>Spare part</td></tr>
+    <tr><td>Wheel</td><td>~2 inch diameter wheel</td><td>PLA</td><td>RPL</td><td>3D printed</td></tr>
+    <tr><td>Wheel Mount</td><td>Mounting structure for framing rail</td><td>PLA</td><td>RPL</td><td>3D printed</td></tr>
+  </tbody>
+</table>
 
 ## 1.2 Design Intent & Functionality
 
