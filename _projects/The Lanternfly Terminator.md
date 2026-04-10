@@ -167,9 +167,9 @@ The system operates by combining an expandable structure with a protective mesh 
    a. On the frame not housing the wheel assembly, the vertical extrusion must be secured to the bottom rail to prevent the structure from shifting (simulating the grounding into the soil). The ordered parts did not arrive so the connection was temporarily made using duct tape for this prototype.  
    b. **Note:** Replace duct tape with proper mechanical fasteners (slider nuts + screws into the 8020 channel, or a bracket) once McMaster parts arrive.
 
-## Pictures from our assembly process!
+## Pictures from our assembly process
 
-![Assembly process photos from the original PDF](page-6-image-placeholder)
+<img src="{{ site.baseurl }}/assets/images/assembly-process.jpg" alt="Assembly Process" width="500">
 
 # 2. Design Tests
 
