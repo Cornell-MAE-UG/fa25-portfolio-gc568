@@ -13,6 +13,7 @@ image:
 ## Table of Contents
 - [Client Design](#client-design)
 - [Functional Prototype](#functional-prototype)
+- [Client Report](#client-report)
 
 <a id="client-design"></a>
 # Client Design
@@ -26,7 +27,7 @@ Grape farms supplying wineries and juice processors are increasingly impacted by
 
 ## Impact
 
-The NY grape industry is valued at $16.81 billion annually, but the increase in SLF infestations causes a significant decrease in this number. By keeping SLFs off grapevines pre-harvest, we reduce infestations. Once SLFs land on vines, they are difficult to control across an area and can rapidly degrade the quality of the harvest. Focusing on this issue lessens SLFs’ impact on product safety, taste, and the economic value of the harvested grapes.
+The NY grape industry is valued at $16.81 billion annually, but the increase in SLF infestations causes a significant decrease in this number. By keeping SLFs off grapevines pre-harvest, we reduce infes`tations. Once SLFs land on vines, they are difficult to control across an area and can rapidly degrade the quality of the harvest. Focusing on this issue lessens SLFs’ impact on product safety, taste, and the economic value of the harvested grapes.
 
 ### Concept: SLF Automated Scent Trap
 
@@ -346,3 +347,75 @@ The prototype will be demonstrated by performing multiple full expansion and con
 
 **What the Audience Will Observe:**  
 The audience will observe the structure transitioning smoothly between a fully enclosed state (protecting the grapevines) and a fully open state (allowing access for harvesting). They will see coordinated motion between the scissor linkage and the wheel–rail system, with minimal jamming or interruption. The mesh enclosure will maintain its tension and coverage throughout the motion, clearly demonstrating its ability to function as a protective barrier while remaining flexible and retractable.
+
+<a id="client-report"></a>
+# Client Report
+
+**Team:** _Bug-anators_  
+**Members:** Albert Zheng, Gary Chau, Lisa Iizuka, Phillip Osadsky, & Yolanda Zhou  
+**Course:** MAE 2250 – Introduction to Mechanical Design, Spring 2026
+
+## Context & Problem Statement
+
+**Specific Problem:** During mechanical harvesting, up to ~60% of SLF present on vines are collected into grape bins, and even 1–2 insects in a 1000 g sample can cause an entire shipment to be rejected.
+
+**Why it Matters:** This leads to significant economic losses, reduced crop quality, and inefficiencies since mechanical systems do not allow for manual sorting. As SLF continues to spread, this issue will scale rapidly across vineyards.
+
+**Constraints:**
+- Must work with mechanical harvesting systems (no interference)
+- Must allow airflow and sunlight for plant health
+- Must be scalable across vineyard rows
+- Must be retractable for operational efficiency
+- Must be structurally stable under outdoor conditions
+
+## Final Prototype and Application
+
+**Prototype Overview:** A retractable vineyard enclosure that expands to protect grapevines from SLF and contracts to allow harvesting operations.
+
+**How it Works:**
+- A scissor linkage expands horizontally to form a frame
+- Mesh stretches across the frame to create a barrier
+- A wheel–rail system enables smooth expansion and retraction
+- The system encloses vines during growth and retracts during harvest
+
+**Key Components:**
+- Scissor linkage (expandable structure)
+- Mesh enclosure (physical barrier)
+- Wheel–rail system (guided motion)
+- Structural support frame
+- Fasteners and joints
+
+**Application:** Used in vineyards to prevent SLF contamination before harvest, reducing reliance on pesticides and eliminating the need for post-harvest sorting.
+
+## Testing and Results
+
+**Test 1: Structural Stability (Scissor Linkage)**  
+*Purpose:* Evaluate how the structure behaves under load.  
+*Method:* Added calibrated weights to the center of the linkage and measured the tilt angle.  
+*Results:* Tilt angle increased with load initially, then plateaued around ~10° at mid-range loads.  
+*Implications:* The structure exhibits limited stiffness and needs increased rigidity through stronger materials, bracing, or improved linkage design.
+
+**Test 2: Wheel–Rail Motion Performance**  
+*Purpose:* Evaluate reliability and smoothness during repeated expansion and contraction cycles.  
+*Method:* 10 full expansion–contraction cycles performed; jamming instances recorded per cycle.  
+*Results:* Early cycles showed smooth motion; later cycles exhibited increased jamming events.  
+*Implications:* Small misalignments accumulate over time — precise alignment and tighter tolerances are critical.
+
+**Test 3: Fastener Reliability**  
+*Purpose:* Assess fastener durability under repeated cycling.  
+*Method:* All bolts and fasteners inspected after each of 10 cycles; loosened fasteners recorded.  
+*Results:* Fasteners began loosening after several cycles; multiple required retightening by later cycles.  
+*Implications:* Locking mechanisms such as lock nuts or thread-locking compounds are needed.
+
+## Conclusion and Recommendation
+
+**Recommendation:** Proceed with further development of the retractable enclosure design with targeted improvements. The current BOM reflects a low-cost prototype using readily available components rather than optimized ones.
+
+**Next Steps:**
+- Reinforce the scissor linkage with stronger materials like Aluminum 6061
+- Improve wheel–rail alignment tolerances
+- Add locking mechanisms for fasteners
+- Integrate motorized actuation for consistent operation
+- Conduct field testing in real vineyard conditions
+
+**Feasibility:** The concept is feasible as a scalable vineyard solution, but requires refinement in structural rigidity, alignment precision, and durability for real-world deployment.
