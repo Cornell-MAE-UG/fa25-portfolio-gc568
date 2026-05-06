@@ -423,6 +423,9 @@ The audience will observe the structure transitioning smoothly between a fully e
 - After a certain weight threshold (~mid-range loads), the tilt began to plateau around ~10°
 - Additional weight beyond this point did not significantly increase deformation
 
+<img src="{{ site.baseurl }}/assets/images/TiltTest.jpg" alt="Tilt Test Results" width="500">
+markdown
+
 **Implications:**
 - The structure exhibits limited stiffness, deforming quickly under initial loading
 - The plateau suggests the system reaches a geometric or structural limit, where further deformation is constrained
@@ -440,6 +443,8 @@ The audience will observe the structure transitioning smoothly between a fully e
 - Later cycles exhibited increased jamming events
 - The total number of jams increased as the cycle number increased
 
+<img src="{{ site.baseurl }}/assets/images/JamTest.jpg" alt="Jam Test Results" width="500">
+
 **Implications:**
 - The system is initially functional, but loses reliability over repeated use
 - Small misalignments in the wheel–rail system accumulate and lead to jamming
@@ -455,6 +460,8 @@ The audience will observe the structure transitioning smoothly between a fully e
 - Fasteners began to loosen after several cycles
 - The number of loose fasteners increased over time
 - By later cycles, multiple fasteners required retightening
+
+<img src="{{ site.baseurl }}/assets/images/FastenerTest.jpg" alt="Fastener Test Results" width="500">
 
 **Implications:**
 - Repeated motion and vibration lead to gradual fastener loosening
