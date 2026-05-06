@@ -385,31 +385,20 @@ The audience will observe the structure transitioning smoothly between a fully e
 - Structural support frame
 - Fasteners and joints
 
-**Application:** Used in vineyards to prevent SLF contamination before harvest, reducing reliance on pesticides and eliminating the need for post-harvest sorting.
-
-## Testing and Results
-
-**Test 1: Structural Stability (Scissor Linkage)**  
-*Purpose:* Evaluate how the structure behaves under load.  
-*Method:* Added calibrated weights to the center of the linkage and measured the tilt angle.  
-*Results:* Tilt angle increased with load initially, then plateaued around ~10° at mid-range loads.  
-*Implications:* The structure exhibits limited stiffness and needs increased rigidity through stronger materials, bracing, or improved linkage design.
-
-**Test 2: Wheel–Rail Motion Performance**  
-*Purpose:* Evaluate reliability and smoothness during repeated expansion and contraction cycles.  
-*Method:* 10 full expansion–contraction cycles performed; jamming instances recorded per cycle.  
-*Results:* Early cycles showed smooth motion; later cycles exhibited increased jamming events.  
-*Implications:* Small misalignments accumulate over time — precise alignment and tighter tolerances are critical.
-
-**Test 3: Fastener Reliability**  
-*Purpose:* Assess fastener durability under repeated cycling.  
-*Method:* All bolts and fasteners inspected after each of 10 cycles; loosened fasteners recorded.  
-*Results:* Fasteners began loosening after several cycles; multiple required retightening by later cycles.  
-*Implications:* Locking mechanisms such as lock nuts or thread-locking compounds are needed.
+**Application:** Used in vineyards to prevent SLF contamination *before harvest*, reducing reliance on pesticides and eliminating the need for post-harvest sorting.
 
 ## Conclusion and Recommendation
 
-**Recommendation:** Proceed with further development of the retractable enclosure design with targeted improvements. The current BOM reflects a low-cost prototype using readily available components rather than optimized ones.
+**Recommendation:** Proceed with further development of the retractable enclosure design, with targeted improvements. The current bill of materials (displayed below) reflects a low cost prototype using readily available components from limited options rather than optimized ones. The following test results indicate that future iterations will require a greater variety of plentiful stronger materials to choose from for low cost mass production in order to span a whole vineyard.
+
+**Justification:** The prototype successfully demonstrates a prevention-based solution that blocks SLF at the source while maintaining compatibility with harvesting operations.
+
+- **Based on testing results:**
+  - Structural instability (tilting under load) needs improvement
+  - Wheel–rail misalignment caused jamming
+  - Fasteners loosened after repeated cycles
+
+**Feasibility:** The concept is feasible as a scalable vineyard solution, but requires refinement in structural rigidity, alignment precision, and durability for real-world deployment.
 
 **Next Steps:**
 - Reinforce the scissor linkage with stronger materials like Aluminum 6061
@@ -418,4 +407,73 @@ The audience will observe the structure transitioning smoothly between a fully e
 - Integrate motorized actuation for consistent operation
 - Conduct field testing in real vineyard conditions
 
-**Feasibility:** The concept is feasible as a scalable vineyard solution, but requires refinement in structural rigidity, alignment precision, and durability for real-world deployment.
+## Testing and Results
+
+**Test 1: Structural Stability (Scissor Linkage)**
+
+**Purpose:** Evaluate how the structure behaves under load
+
+**Method:** Added calibrated weights to the center of the linkage and measured the tilt angle
+
+**Results:**
+- Tilt angle increased with increasing load initially
+- After a certain weight threshold (~mid-range loads), the tilt began to plateau around ~10°
+- Additional weight beyond this point did not significantly increase deformation
+
+**Implications:**
+- The structure exhibits limited stiffness, deforming quickly under initial loading
+- The plateau suggests the system reaches a geometric or structural limit, where further deformation is constrained
+- While deformation does not increase indefinitely, a ~10° tilt is still significant and may impact performance
+- Indicates need for increased rigidity (stronger materials, bracing, or improved linkage design)
+
+**Test 2: Wheel–Rail Motion Performance**
+
+**Purpose:** Evaluate the reliability and smoothness of the wheel–rail system during repeated expansion and contraction cycles.
+
+**Method:** The prototype was run through 10 full expansion–contraction cycles. During each cycle, the number of jams (instances where motion was obstructed or stopped) was recorded.
+
+**Results:**
+- Early cycles showed smooth motion with little to no jamming
+- Later cycles exhibited increased jamming events
+- The total number of jams increased as the cycle number increased
+
+**Implications:**
+- The system is initially functional, but loses reliability over repeated use
+- Small misalignments in the wheel–rail system accumulate and lead to jamming
+- Precise alignment and tighter tolerances are critical for consistent performance
+
+**Test 3: Fastener Reliability**
+
+**Purpose:** Assess the durability of fasteners under repeated expansion–contraction cycles.
+
+**Method:** After performing 10 full expansion–contraction cycles, all bolts and fasteners in the prototype were inspected. The number of loosened fasteners was recorded after each cycle.
+
+**Results:**
+- Fasteners began to loosen after several cycles
+- The number of loose fasteners increased over time
+- By later cycles, multiple fasteners required retightening
+
+**Implications:**
+- Repeated motion and vibration lead to gradual fastener loosening
+- The current fastening method is not sufficient for long-term durability
+- Indicates a need for locking mechanisms (e.g., lock nuts, thread-locking compounds)
+
+## Prototype and Testing Details
+
+**Design Details:** The design uses a horizontally expanding scissor linkage system combined with a mesh barrier to create a retractable enclosure that surrounds grapevines while maintaining environmental exposure.
+
+**Assembly Overview:**
+- Constructed a 4-bar scissor-linkage frame constrained to 1 DOF, ensuring the entire mechanism moves from a single input motion.
+- Cut 80/20 extrusion channels to length using a bandsaw and connect them with L-brackets to form the rigid end frames.
+- Pinned the top of the scissor linkage to the frame (fixed) while leaving the bottom free to translate, enabling linear extension and retraction.
+- Fabricated a wheel-motor mount in CAD, assembled it under the free end of the frame, and powered the motor via a DC adaptor with alligator clips provided to us.
+- Secured the insect mesh enclosure to the scissor linkage using zip ties along the aluminum frame.
+- Mounted the full assembly onto an L-bracket rail system, allowing the system to roll along a fixed linear track.
+
+**Testing Setup:** The prototype was tested using controlled, repeatable setups to evaluate structural stability, motion performance, and fastener reliability under conditions that simulate real operation.
+
+**Test 1: Structural Stability (Scissor Linkage):** The prototype was fully expanded and placed on a stable surface. Calibrated weights were incrementally added to the center of the scissor linkage to simulate loading conditions. At each load step, the tilt angle of the structure was measured relative to the horizontal to quantify deformation.
+
+**Test 2: Wheel–Rail Motion Performance:** The prototype was mounted on its rail system and manually operated through repeated expansion and contraction cycles. A total of 10 full cycles were performed. During each cycle, the system was observed for interruptions in motion, and any instances of jamming or resistance were recorded.
+
+**Test 3: Fastener Reliability:** Following the motion testing, all fasteners (bolts and joints) were inspected after each cycle. The number of loosened fasteners was recorded to evaluate how repeated motion and vibration affected connection integrity over time.
