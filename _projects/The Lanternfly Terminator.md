@@ -372,6 +372,9 @@ The audience will observe the structure transitioning smoothly between a fully e
 
 **Prototype Overview:** A retractable vineyard enclosure that expands to protect grapevines from SLF and contracts to allow harvesting operations.
 
+<img src="{{ site.baseurl }}/assets/images/ExtendedSLFPrototype.jpg" alt="Extended SLF Prototype" width="500">
+<img src="{{ site.baseurl }}/assets/images/RetractedSLFPrototype.jpg" alt="Retracted SLF Prototype" width="500">
+
 **How it Works:**
 - A scissor linkage expands horizontally to form a frame
 - Mesh stretches across the frame to create a barrier
