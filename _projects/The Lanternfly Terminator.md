@@ -477,3 +477,14 @@ The audience will observe the structure transitioning smoothly between a fully e
 **Test 2: Wheel–Rail Motion Performance:** The prototype was mounted on its rail system and manually operated through repeated expansion and contraction cycles. A total of 10 full cycles were performed. During each cycle, the system was observed for interruptions in motion, and any instances of jamming or resistance were recorded.
 
 **Test 3: Fastener Reliability:** Following the motion testing, all fasteners (bolts and joints) were inspected after each cycle. The number of loosened fasteners was recorded to evaluate how repeated motion and vibration affected connection integrity over time.
+
+| Name | Part Number | Quantity | Cost | Justification |
+|------|-------------|----------|------|---------------|
+| Collapsible Gates (Amazon) | B08L5FQYHS | 2 | $46 | This part is mainly for the expandable and collapsible portion of the shaft, which is essential for the top-most portion of our design. It is also not on McMaster, where we are only able to source it from Amazon. |
+| Mesh (Amazon) | B087RSWLY8 | 1 | $8 | A mesh is also an important part of our design. It acts as the main protective layer against SLFs. However, McMaster only has extremely heavy meshes, which are not structurally good for our design purposes. We are also not able to make this in the TDS or by machining any parts, so the only way is to buy it from Amazon. |
+| Wheels (Amazon) | B0FLX9WQBH | 2 | $37.16 | This part is used for the rolling motion of the mesh and structural components. Wheels from McMaster are incredibly expensive, which makes buying wheels from Amazon the only realistic option for our team. |
+| Motor (Amazon) | B089GTHGPZ | 2 | $30 | This part is used for electrically powering our wheels. This allows us to automate our system. Motors from McMaster are incredibly clunky, heavy, costly, and the specs are too high for our use case. Amazon was the only reasonably priced option. |
+| 80/20 Extrusions (McMaster) | 47065T101 | 2 | $66.50 | 6 ft each |
+| U Channels (McMaster) | 9001K787 | 2 | $17.48 | 4 ft each |
+| L Brackets + Nuts (Amazon) | B0855V2JV3 | 1 | $18 | These L brackets are for securing our frames together. These brackets could be found on McMaster, but McMaster charges $8 for each bracket, which is ludicrously overpriced and would put us over budget. |
+| **Total** | | | **$233** | |
